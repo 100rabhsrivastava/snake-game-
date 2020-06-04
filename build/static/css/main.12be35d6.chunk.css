@@ -1,0 +1,2 @@
+body{background-color:wheat}.game-area{background-color:#ebf5fb;position:relative;margin:50px auto;width:95%;height:600px;border:7px solid #000}.snake-dot{background-color:#2ecc71;border:2px solid #f2f3f4;z-index:2}.snake-dot,.snake-food{position:absolute;width:2%;height:2%}.snake-food{background:#fa2c00;border:2px solid #0f97e6;z-index:1}@media screen and (max-width:768px){.game-area{width:95%;height:400px}}
+/*# sourceMappingURL=main.12be35d6.chunk.css.map */
